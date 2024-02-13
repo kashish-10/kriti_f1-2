@@ -31,13 +31,11 @@ dependencies:
   flutter_phone_direct_caller: ^2.1.1
   url_launcher: ^6.2.4
   fluttertoast: ^8.2.4
-  background_location: ^0.11.8
-  flutter_background_service: ^5.0.5
   shake: ^2.2.0
-  shared_preferences: ^2.2.2
-  vibration: ^1.8.4
-  workmanager: ^0.5.2
-  telephony: ^0.2.0
+  geolocator: ^10.1.1
+  geocoding: ^2.1.1
+  permission_handler: ^11.3.0
+  background_sms: ^0.0.4
 
 dev_dependencies:
   flutter_test:
